@@ -4,4 +4,4 @@ def level1(N):
       factorial *= i
    s = str(factorial)
    first_digit = int(s[0])
-return first_digit
+   return first_digit
